@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	keywords($args);
+]]></content>
+	<tabTrigger>key</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>keywords</description>
+</snippet>

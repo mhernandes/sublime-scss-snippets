@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	map-has-key($map, $key);
+]]></content>
+	<tabTrigger>mph</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>map-has-key</description>
+</snippet>

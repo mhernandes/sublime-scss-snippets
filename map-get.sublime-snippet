@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	map-get($map, $key);
+]]></content>
+	<tabTrigger>mpgt</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>map-get</description>
+</snippet>

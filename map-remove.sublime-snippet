@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	map-remove($map, $keys...);
+]]></content>
+	<tabTrigger>mprm</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>map-remove</description>
+</snippet>

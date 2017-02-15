@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	map-merge($map1, $map2);
+]]></content>
+	<tabTrigger>mpg</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>map-merge</description>
+</snippet>

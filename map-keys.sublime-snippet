@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	map-keys($map);
+]]></content>
+	<tabTrigger>mpk</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>map-keys</description>
+</snippet>

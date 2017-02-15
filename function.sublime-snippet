@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+	@function ${1:this}() {
+		@warn 'warn me';
+		@return false;
+	}
+]]></content>
+	<tabTrigger>fun</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>@function</description>
+</snippet>
