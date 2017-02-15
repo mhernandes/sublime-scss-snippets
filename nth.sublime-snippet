@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	nth($list, $n);
+]]></content>
+	<tabTrigger>nth</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>nth</description>
+</snippet>
