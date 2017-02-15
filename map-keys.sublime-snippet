@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>mpk</tabTrigger>
 	<scope>source.sass, source.scss</scope>
-	<description>map-keys</description>
+	<description>map-keys() returns a list of all keys in a map</description>
 </snippet>

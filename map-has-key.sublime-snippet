@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>mph</tabTrigger>
 	<scope>source.sass, source.scss</scope>
-	<description>map-has-key</description>
+	<description>map-has-key() returns whether a map has a value associated with a given key</description>
 </snippet>

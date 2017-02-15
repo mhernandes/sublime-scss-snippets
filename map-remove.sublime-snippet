@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>mprm</tabTrigger>
 	<scope>source.sass, source.scss</scope>
-	<description>map-remove</description>
+	<description>map-remove() returns a new map with keys removed</description>
 </snippet>

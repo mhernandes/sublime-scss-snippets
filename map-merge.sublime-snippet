@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>mpg</tabTrigger>
 	<scope>source.sass, source.scss</scope>
-	<description>map-merge</description>
+	<description>map-merge() merges two maps together into a new map</description>
 </snippet>

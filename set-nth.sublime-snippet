@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>stnt</tabTrigger>
 	<scope>source.sass, source.scss</scope>
-	<description>set-nth</description>
+	<description>set-nth() replaces the nth item in a list</description>
 </snippet>

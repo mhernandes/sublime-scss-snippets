@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>nt</tabTrigger>
 	<scope>source.sass, source.scss</scope>
-	<description>nth</description>
+	<description>nth() returns a specific item in a list</description>
 </snippet>

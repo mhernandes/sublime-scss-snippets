@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>mpv</tabTrigger>
 	<scope>source.sass, source.scss</scope>
-	<description>map-values</description>
+	<description>map-values() returns a list of all values in a map</description>
 </snippet>

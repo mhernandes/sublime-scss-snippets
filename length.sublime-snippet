@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>len</tabTrigger>
 	<scope>source.sass, source.scss</scope>
-	<description>length</description>
+	<description>length() return the length of a list</description>
 </snippet>

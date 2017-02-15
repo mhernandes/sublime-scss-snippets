@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>key</tabTrigger>
 	<scope>source.sass, source.scss</scope>
-	<description>keywords</description>
+	<description>keywords() returns the keywords passed to a function that takes variable arguments</description>
 </snippet>
