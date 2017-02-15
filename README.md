@@ -7,6 +7,8 @@ See [sass doc](http://sass-lang.com/documentation/Sass/Script/Functions.html)
 
 - [X] Mixin
 - [X] Function
+- [X] include
+- [X] extend
 - [X] import
 - [ ] SASS/SCSS Functions
 	- [X] Maps

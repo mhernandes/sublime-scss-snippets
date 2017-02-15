@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	@extend .${1:ex};
+]]></content>
+	<tabTrigger>ext</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>extend</description>
+</snippet>
