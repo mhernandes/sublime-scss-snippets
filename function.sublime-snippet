@@ -1,5 +1,8 @@
 <snippet>
 	<content><![CDATA[
+	// Name ${1:this}
+	// Desc
+	// Return
 	@function ${1:this}() {
 		@warn 'warn me';
 		@return false;

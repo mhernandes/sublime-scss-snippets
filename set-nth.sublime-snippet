@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-	set-nth($list, $n, $value);
+	set-nth(${1:list}, ${2:n}, ${3:value})
 ]]></content>
-	<tabTrigger>set-nth</tabTrigger>
+	<tabTrigger>stnt</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>set-nth</description>
 </snippet>

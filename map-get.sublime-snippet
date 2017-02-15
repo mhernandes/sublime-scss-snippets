@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	map-get($map, $key);
+	map-get(${1:map}, ${2:key})
 ]]></content>
 	<tabTrigger>mpgt</tabTrigger>
 	<scope>source.sass, source.scss</scope>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	keywords($args);
+	keywords(${1:args});
 ]]></content>
 	<tabTrigger>key</tabTrigger>
 	<scope>source.sass, source.scss</scope>
