@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	str-length(${1:string})
+]]></content>
+	<tabTrigger>stlen</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>str-length() returns the number of characters in a string</description>
+</snippet>

@@ -58,12 +58,12 @@ See [sass doc](http://sass-lang.com/documentation/Sass/Script/Functions.html)
 		- [X] alpha
 		- [X] opacify
 		- [X] transparentize
-	- [ ] String
-		- [ ] unquote
-		- [ ] quote
-		- [ ] str-length
-		- [ ] str-insert
-		- [ ] str-index
-		- [ ] str-slice
-		- [ ] to-upper-case
-		- [ ] to-lower-case
+	- [X] String
+		- [X] unquote
+		- [X] quote
+		- [X] str-length
+		- [X] str-insert
+		- [X] str-index
+		- [X] str-slice
+		- [X] to-upper-case
+		- [X] to-lower-case

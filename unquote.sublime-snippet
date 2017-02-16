@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	unquote(${1:string})
+]]></content>
+	<tabTrigger>unq</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>unquote() removes quotes from a string</description>
+</snippet>
