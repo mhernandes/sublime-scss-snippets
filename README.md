@@ -67,3 +67,12 @@ See [sass doc](http://sass-lang.com/documentation/Sass/Script/Functions.html)
 		- [X] str-slice
 		- [X] to-upper-case
 		- [X] to-lower-case
+	- [ ] Number
+		- [ ] percentage
+		- [ ] round
+		- [ ] ceil
+		- [ ] floor
+		- [ ] abs
+		- [ ] min
+		- [ ] max
+		- [ ] random
