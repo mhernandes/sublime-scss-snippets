@@ -49,3 +49,21 @@ See [sass doc](http://sass-lang.com/documentation/Sass/Script/Functions.html)
 		- [X] grayscale
 		- [X] complement
 		- [X] invert
+	- [ ] Others Colors
+		- [ ] adjust-color
+		- [ ] scale-color
+		- [ ] change-color
+		- [ ] ie-hex-str
+	- [ ] Opacity
+		- [ ] alpha
+		- [ ] opacify
+		- [ ] transparentize
+	- [ ] String
+		- [ ] unquote
+		- [ ] quote
+		- [ ] str-length
+		- [ ] str-insert
+		- [ ] str-index
+		- [ ] str-slice
+		- [ ] to-upper-case
+		- [ ] to-lower-case
