@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	fade-in(${1:color}, ${2:amount})
+]]></content>
+	<tabTrigger>fd</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>fade-in() makes a color more opaque</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	opacity(${1:color})
+]]></content>
+	<tabTrigger>op</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>opacity() gets the alpha component (opacity) of a color</description>
+</snippet>

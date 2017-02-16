@@ -54,10 +54,10 @@ See [sass doc](http://sass-lang.com/documentation/Sass/Script/Functions.html)
 		- [ ] scale-color
 		- [ ] change-color
 		- [ ] ie-hex-str
-	- [ ] Opacity
-		- [ ] alpha
-		- [ ] opacify
-		- [ ] transparentize
+	- [X] Opacity
+		- [X] alpha
+		- [X] opacify
+		- [X] transparentize
 	- [ ] String
 		- [ ] unquote
 		- [ ] quote
