@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	index(${1:list}, ${2:val})
+]]></content>
+	<tabTrigger>in</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>index() returns the position of a value within a list</description>
+</snippet>

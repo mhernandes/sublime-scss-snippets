@@ -19,12 +19,12 @@ See [sass doc](http://sass-lang.com/documentation/Sass/Script/Functions.html)
 		- [X] map-merge
 		- [X] map-remove
 		- [X] keywords
-	- [ ] List
+	- [X] List
 		- [X] length
 		- [X] nth
 		- [X] set-nth
-		- [ ] join
-		- [ ] append
-		- [ ] zip
-		- [ ] index
-		- [ ] list-separator
+		- [X] join
+		- [X] append
+		- [X] zip
+		- [X] index
+		- [X] list-separator
