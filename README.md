@@ -28,13 +28,13 @@ See [sass doc](http://sass-lang.com/documentation/Sass/Script/Functions.html)
 		- [X] zip
 		- [X] index
 		- [X] list-separator
-	- [ ] RGB
-		- [ ] rgb
-		- [ ] rgba
-		- [ ] red
-		- [ ] green
-		- [ ] blue
-		- [ ] mix
+	- [X] RGB
+		- [X] rgb
+		- [X] rgba
+		- [X] red
+		- [X] green
+		- [X] blue
+		- [X] mix
 	- [ ] HSL
 		- [ ] hsl
 		- [ ] hsla

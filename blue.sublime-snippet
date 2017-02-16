@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	blue(${1:color})
+]]></content>
+	<tabTrigger>bl</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>blue() gets the blue component of a color</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	mix(${1:color}, ${2:color2}, ${3:weight})
+]]></content>
+	<tabTrigger>mix</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>mix() mixes two colors together</description>
+</snippet>
