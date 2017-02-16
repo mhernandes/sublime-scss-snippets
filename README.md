@@ -49,11 +49,11 @@ See [sass doc](http://sass-lang.com/documentation/Sass/Script/Functions.html)
 		- [X] grayscale
 		- [X] complement
 		- [X] invert
-	- [ ] Others Colors
-		- [ ] adjust-color
-		- [ ] scale-color
-		- [ ] change-color
-		- [ ] ie-hex-str
+	- [X] Others Colors
+		- [X] adjust-color
+		- [X] scale-color
+		- [X] change-color
+		- [X] ie-hex-str
 	- [X] Opacity
 		- [X] alpha
 		- [X] opacify
