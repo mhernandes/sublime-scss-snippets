@@ -28,3 +28,24 @@ See [sass doc](http://sass-lang.com/documentation/Sass/Script/Functions.html)
 		- [X] zip
 		- [X] index
 		- [X] list-separator
+	- [ ] RGB
+		- [ ] rgb
+		- [ ] rgba
+		- [ ] red
+		- [ ] green
+		- [ ] blue
+		- [ ] mix
+	- [ ] HSL
+		- [ ] hsl
+		- [ ] hsla
+		- [ ] hue
+		- [ ] saturation
+		- [ ] lightness
+		- [ ] darken
+		- [ ] lighten
+		- [ ] adjust-blue
+		- [ ] saturate
+		- [ ] desaturate
+		- [ ] grayscale
+		- [ ] complement
+		- [ ] invert
