@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	hsl(${1:hue}, ${2:saturation}, ${3:lightness})
+]]></content>
+	<tabTrigger>hs</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>hsl() creates a Color from hue, saturation, and lightness values</description>
+</snippet>

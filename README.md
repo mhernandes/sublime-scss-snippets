@@ -35,17 +35,17 @@ See [sass doc](http://sass-lang.com/documentation/Sass/Script/Functions.html)
 		- [X] green
 		- [X] blue
 		- [X] mix
-	- [ ] HSL
-		- [ ] hsl
-		- [ ] hsla
-		- [ ] hue
-		- [ ] saturation
-		- [ ] lightness
-		- [ ] darken
-		- [ ] lighten
-		- [ ] adjust-blue
-		- [ ] saturate
-		- [ ] desaturate
-		- [ ] grayscale
-		- [ ] complement
-		- [ ] invert
+	- [X] HSL
+		- [X] hsl
+		- [X] hsla
+		- [X] hue
+		- [X] saturation
+		- [X] lightness
+		- [X] darken
+		- [X] lighten
+		- [X] adjust-hue
+		- [X] saturate
+		- [X] desaturate
+		- [X] grayscale
+		- [X] complement
+		- [X] invert

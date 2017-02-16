@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	lightness(${1:color})
+]]></content>
+	<tabTrigger>lign</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>lightness() gets the lightness component of a color</description>
+</snippet>

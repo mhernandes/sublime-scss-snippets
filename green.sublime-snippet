@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	green(${1:color})
 ]]></content>
-	<tabTrigger>gr</tabTrigger>
+	<tabTrigger>gre</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>green() gets the green component of a color</description>
 </snippet>

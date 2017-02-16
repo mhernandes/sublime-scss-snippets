@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	invert(${1:color})
+]]></content>
+	<tabTrigger>inv</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>invert() returns the inverse of a color</description>
+</snippet>
