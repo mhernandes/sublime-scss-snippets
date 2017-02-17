@@ -11,6 +11,15 @@ See [sass doc](http://sass-lang.com/documentation/Sass/Script/Functions.html)
 - [X] extend
 - [X] import
 - [ ] SASS/SCSS Functions
+	- [X] Number
+		- [X] percentage
+		- [X] round
+		- [X] ceil
+		- [X] floor
+		- [X] abs
+		- [X] min
+		- [X] max
+		- [X] random
 	- [X] Maps
 		- [X] map-has-key
 		- [X] map-keys
@@ -67,12 +76,3 @@ See [sass doc](http://sass-lang.com/documentation/Sass/Script/Functions.html)
 		- [X] str-slice
 		- [X] to-upper-case
 		- [X] to-lower-case
-	- [ ] Number
-		- [ ] percentage
-		- [ ] round
-		- [ ] ceil
-		- [ ] floor
-		- [ ] abs
-		- [ ] min
-		- [ ] max
-		- [ ] random

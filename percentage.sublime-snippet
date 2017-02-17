@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	percentage(${1:number})
+]]></content>
+	<tabTrigger>per</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>percentage() converts a unitless number to a percentage</description>
+</snippet>

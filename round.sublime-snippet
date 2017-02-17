@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	round(${1:number})
+]]></content>
+	<tabTrigger>ro</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>round() rounds a number to the nearest whole number</description>
+</snippet>

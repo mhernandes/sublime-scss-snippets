@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	ceil(${1:number})
+]]></content>
+	<tabTrigger>ce</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>ceil() rounds a number up to the next whole number</description>
+</snippet>
