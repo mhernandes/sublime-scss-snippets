@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	simple-selectors(${1:selector})
+]]></content>
+	<tabTrigger>smpsl</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>simple-selectors() returns the simple selectors that comprise a compound selector</description>
+</snippet>

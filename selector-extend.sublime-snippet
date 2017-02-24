@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	selector-extend(${1:selector}, ${2:extendee}, ${3:extender})
+]]></content>
+	<tabTrigger>slex</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>selector-extend() extends $extendee with $extender within $selector</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	selector-append(${1:selectors})
+]]></content>
+	<tabTrigger>slap</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>selector-append() appends selectors to one another without spaces in between</description>
+</snippet>

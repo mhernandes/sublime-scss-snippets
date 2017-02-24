@@ -11,15 +11,15 @@ See [sass doc](http://sass-lang.com/documentation/Sass/Script/Functions.html)
 - [X] extend
 - [X] import
 - [ ] SASS/SCSS Functions
-	- [ ] Selector 
-		- [ ] selector-nest
-		- [ ] selector-append
-		- [ ] selector-extend
-		- [ ] selector-replace
-		- [ ] selector-unify
-		- [ ] is-superselector
-		- [ ] simple-selectors
-		- [ ] selectors-parse
+	- [X] Selector 
+		- [X] selector-nest
+		- [X] selector-append
+		- [X] selector-extend
+		- [X] selector-replace
+		- [X] selector-unify
+		- [X] is-superselector
+		- [X] simple-selectors
+		- [X] selectors-parse
 	- [X] Number
 		- [X] percentage
 		- [X] round
