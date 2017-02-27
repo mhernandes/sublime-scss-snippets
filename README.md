@@ -10,7 +10,32 @@ See [sass doc](http://sass-lang.com/documentation/Sass/Script/Functions.html)
 - [X] include
 - [X] extend
 - [X] import
+- [ ] each
+- [ ] for
+- [ ] while
+- [ ] variable
+- [ ] at-root
+- [ ] debug
+- [ ] warn
+- [ ] error
+- [ ] variable as map
+- [ ] variable as list
 - [ ] SASS/SCSS Functions
+	- [ ] Miscellaneous
+		- [ ] if
+		- [ ] unique-id
+	- [ ] Introspection
+		- [ ] feature-exists
+		- [ ] variable-exists
+		- [ ] global-variable-exists
+		- [ ] function-exists
+		- [ ] mixin-exists
+		- [ ] inspect
+		- [ ] type-of
+		- [ ] unit
+		- [ ] unitless
+		- [ ] comparable
+		- [ ] call
 	- [X] Selector 
 		- [X] selector-nest
 		- [X] selector-append
