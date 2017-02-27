@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	unique-id()
+]]></content>
+	<tabTrigger>unq</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>unique-id() returns a unique CSS identifier</description>
+</snippet>

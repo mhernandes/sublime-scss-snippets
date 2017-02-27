@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+	@if something == true {
+
+	} @else if 0 < 1 {
+
+	} @else {
+
+	}
+]]></content>
+	<tabTrigger>@i</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>@if</description>
+</snippet>

@@ -11,6 +11,7 @@ See [sass doc](http://sass-lang.com/documentation/Sass/Script/Functions.html)
 - [X] extend
 - [X] import
 - [X] each
+- [X] if/elseif/else
 - [X] for
 - [X] while
 - [X] variable
@@ -22,9 +23,9 @@ See [sass doc](http://sass-lang.com/documentation/Sass/Script/Functions.html)
 - [X] variable as map
 - [X] variable as list
 - [ ] SASS/SCSS Functions
-	- [ ] Miscellaneous
-		- [ ] if
-		- [ ] unique-id
+	- [X] Miscellaneous
+		- [X] if
+		- [X] unique-id
 	- [ ] Introspection
 		- [ ] feature-exists
 		- [ ] variable-exists
