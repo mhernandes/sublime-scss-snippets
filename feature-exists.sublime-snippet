@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	feature-exists(${1:feature})
+]]></content>
+	<tabTrigger>feat</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>feature-exists() returns whether a feature exists in the current Sass runtime</description>
+</snippet>

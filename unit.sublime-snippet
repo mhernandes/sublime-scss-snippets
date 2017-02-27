@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	unit(${1:number})
+]]></content>
+	<tabTrigger>un</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>unit() returns the unit(s) associated with a number</description>
+</snippet>

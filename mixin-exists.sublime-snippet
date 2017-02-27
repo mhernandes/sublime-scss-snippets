@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	mixin-exists(${1:mixin})
+]]></content>
+	<tabTrigger>mxex</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>mixin-exists() returns whether a mixin with the given name exists</description>
+</snippet>

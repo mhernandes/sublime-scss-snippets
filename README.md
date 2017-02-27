@@ -22,22 +22,22 @@ See [sass doc](http://sass-lang.com/documentation/Sass/Script/Functions.html)
 - [X] !default
 - [X] variable as map
 - [X] variable as list
-- [ ] SASS/SCSS Functions
+- [X] SASS/SCSS Functions
 	- [X] Miscellaneous
 		- [X] if
 		- [X] unique-id
-	- [ ] Introspection
-		- [ ] feature-exists
-		- [ ] variable-exists
-		- [ ] global-variable-exists
-		- [ ] function-exists
-		- [ ] mixin-exists
-		- [ ] inspect
-		- [ ] type-of
-		- [ ] unit
-		- [ ] unitless
-		- [ ] comparable
-		- [ ] call
+	- [X] Introspection
+		- [X] feature-exists
+		- [X] variable-exists
+		- [X] global-variable-exists
+		- [X] function-exists
+		- [X] mixin-exists
+		- [X] inspect
+		- [X] type-of
+		- [X] unit
+		- [X] unitless
+		- [X] comparable
+		- [X] call
 	- [X] Selector 
 		- [X] selector-nest
 		- [X] selector-append

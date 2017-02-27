@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	unitless(${1:number})
+]]></content>
+	<tabTrigger>unl</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>unitless() returns whether a number has units</description>
+</snippet>

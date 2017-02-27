@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	inspect(${1:value})
+]]></content>
+	<tabTrigger>ins</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>inspect() returns the string representation of a value as it would be represented in Sass</description>
+</snippet>

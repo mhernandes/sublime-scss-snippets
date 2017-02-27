@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	type-of(${1:value})
+]]></content>
+	<tabTrigger>ty</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>type-of() returns the type of a value</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	global-variable-exists(${1:variable})
+]]></content>
+	<tabTrigger>gbvar</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>global-variable-exists() returns whether a variable with the given name exists in the global scope</description>
+</snippet>
