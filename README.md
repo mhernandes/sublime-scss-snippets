@@ -10,16 +10,17 @@ See [sass doc](http://sass-lang.com/documentation/Sass/Script/Functions.html)
 - [X] include
 - [X] extend
 - [X] import
-- [ ] each
-- [ ] for
-- [ ] while
-- [ ] variable
-- [ ] at-root
-- [ ] debug
-- [ ] warn
-- [ ] error
-- [ ] variable as map
-- [ ] variable as list
+- [X] each
+- [X] for
+- [X] while
+- [X] variable
+- [X] at-root
+- [X] debug
+- [X] warn
+- [X] error
+- [X] !default
+- [X] variable as map
+- [X] variable as list
 - [ ] SASS/SCSS Functions
 	- [ ] Miscellaneous
 		- [ ] if

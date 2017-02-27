@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	@warn 'warning must be inside of function, do not forget this'
+]]></content>
+	<tabTrigger>war</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>@warn</description>
+</snippet>

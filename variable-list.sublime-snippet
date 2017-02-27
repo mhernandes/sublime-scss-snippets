@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	${1:list}: list1 list2 list2;
+]]></content>
+	<tabTrigger>lt</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>$var: list</description>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+	@for ${1:i} from 1 through 3 {
+		.item-#{$i} {
+		
+		}
+	}
+]]></content>
+	<tabTrigger>for</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>@for</description>
+</snippet>
