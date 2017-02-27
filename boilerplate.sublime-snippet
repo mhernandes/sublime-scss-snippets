@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Hello, ${1:this} is a ${2:snippet}.
-]]></content>
-	<tabTrigger>trigger</tabTrigger>
-	<scope>source.sass, source.scss</scope>
-	<description>desc</description>
-</snippet>
