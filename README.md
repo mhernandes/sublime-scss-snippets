@@ -1,9 +1,8 @@
-# sublime-scss-snippets
+# Complete SASS/SCSS Snippets!
 
-SASS/SCSS snippets for Sublime Text 3
+Complete SASS/SCSS snippets for Sublime Text 3
 
-## TODO LIST
-See [sass doc](http://sass-lang.com/documentation/Sass/Script/Functions.html)
+### Snippets list
 
 - [X] Mixin
 - [X] Function
