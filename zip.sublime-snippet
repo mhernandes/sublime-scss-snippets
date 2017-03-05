@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	zip(${1:lists})
 ]]></content>
-	<tabTrigger>zp</tabTrigger>
+	<tabTrigger>zip</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>zip() combines several lists into a single multidimensional list</description>
 </snippet>

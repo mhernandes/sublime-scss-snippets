@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	change-color(${1:color}, [$red], [$green], [$blue], [$hue], [$saturation], [$lightness], [$alpha])
 ]]></content>
-	<tabTrigger>ch</tabTrigger>
+	<tabTrigger>cc</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>change-color() changes one or more properties of a color</description>
 </snippet>

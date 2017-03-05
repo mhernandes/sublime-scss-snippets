@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	to-lower-case(${1:string})
 ]]></content>
-	<tabTrigger>tlo</tabTrigger>
+	<tabTrigger>tl</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>to-lower-case() converts a string to lower case</description>
 </snippet>

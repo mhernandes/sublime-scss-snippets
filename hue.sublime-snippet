@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	hue(${1:color})
 ]]></content>
-	<tabTrigger>hu</tabTrigger>
+	<tabTrigger>hue</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>hue() gets the hue component of a color</description>
 </snippet>

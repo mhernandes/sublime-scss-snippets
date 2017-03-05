@@ -4,7 +4,7 @@
 		// Desc
 		// Return
 		@mixin ${1:name}() {
-
+			@content;
 		}
 ]]></content>
 	<tabTrigger>mix</tabTrigger>

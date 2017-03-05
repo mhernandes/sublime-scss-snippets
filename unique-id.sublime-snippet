@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	unique-id()
 ]]></content>
-	<tabTrigger>uniq</tabTrigger>
+	<tabTrigger>ui</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>unique-id() returns a unique CSS identifier</description>
 </snippet>

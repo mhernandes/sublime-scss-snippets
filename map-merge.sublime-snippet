@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	map-merge(${1:map1}, ${2:map2})
 ]]></content>
-	<tabTrigger>mpg</tabTrigger>
+	<tabTrigger>mmg</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>map-merge() merges two maps together into a new map</description>
 </snippet>

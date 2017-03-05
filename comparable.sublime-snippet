@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	comparable(${1:number1}, ${2:number2})
 ]]></content>
-	<tabTrigger>comp</tabTrigger>
+	<tabTrigger>cp</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>comparable() returns whether two numbers can be added, subtracted, or compared</description>
 </snippet>

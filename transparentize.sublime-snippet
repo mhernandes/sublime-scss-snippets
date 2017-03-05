@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	transparentize(${1:color}, ${2:amount})
 ]]></content>
-	<tabTrigger>tra</tabTrigger>
+	<tabTrigger>tr</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>transparentize() makes a color more transparent</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	call(${1:name}, ${2:args})
+]]></content>
+	<tabTrigger>ca</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>call() dynamically calls a Sass function</description>
+</snippet>

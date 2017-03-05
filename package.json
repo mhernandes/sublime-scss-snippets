@@ -1,0 +1,15 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name": "SCSS-complete-snippets",
+			"details": "https://github.com/mhernandes/sublime-scss-snippets",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		}
+	]
+}

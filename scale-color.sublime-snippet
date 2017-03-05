@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	scale-color(${1:color}, [$red], [$green], [$blue], [$saturation], [$lightness], [$alpha])
 ]]></content>
-	<tabTrigger>scl</tabTrigger>
+	<tabTrigger>sc</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>scale-color() fluidly scales one or more properties of a color</description>
 </snippet>

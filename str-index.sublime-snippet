@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	str-index(${1:string}, ${2:substring})
 ]]></content>
-	<tabTrigger>stid</tabTrigger>
+	<tabTrigger>stx</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>str-index() inserts the index of the first occurrence of $substring in $string</description>
 </snippet>

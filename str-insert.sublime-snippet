@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	str-insert(${1:string}, ${2:insert}, ${3:index})
 ]]></content>
-	<tabTrigger>stin</tabTrigger>
+	<tabTrigger>sti</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>str-insert() inserts $insert into $string at $index</description>
 </snippet>

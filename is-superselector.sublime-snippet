@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	is-superselector(${1:super}, ${2:sub})
 ]]></content>
-	<tabTrigger>isup</tabTrigger>
+	<tabTrigger>is</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>is-superselector() returns whether $super matches all the elements $sub does, and possibly more</description>
 </snippet>

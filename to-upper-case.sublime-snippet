@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	to-upper-case(${1:string})
 ]]></content>
-	<tabTrigger>tup</tabTrigger>
+	<tabTrigger>tu</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>to-upper-case() converts a string to upper case</description>
 </snippet>

@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	length(${1:list})
 ]]></content>
-	<tabTrigger>len</tabTrigger>
+	<tabTrigger>ln</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>length() return the length of a list</description>
 </snippet>

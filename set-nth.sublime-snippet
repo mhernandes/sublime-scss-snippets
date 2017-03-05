@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	set-nth(${1:list}, ${2:n}, ${3:value})
 ]]></content>
-	<tabTrigger>stnt</tabTrigger>
+	<tabTrigger>stn</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>set-nth() replaces the nth item in a list</description>
 </snippet>

@@ -6,7 +6,7 @@
 		}
 	}
 ]]></content>
-	<tabTrigger>whi</tabTrigger>
+	<tabTrigger>wh</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>@while</description>
 </snippet>

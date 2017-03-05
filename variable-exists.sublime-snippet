@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	variable-exists(${1:variable})
 ]]></content>
-	<tabTrigger>vrex</tabTrigger>
+	<tabTrigger>ve</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>variable-exists() returns whether a variable with the given name exists in the current scope</description>
 </snippet>

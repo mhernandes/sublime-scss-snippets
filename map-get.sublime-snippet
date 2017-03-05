@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	map-get(${1:map}, ${2:key})
 ]]></content>
-	<tabTrigger>mpgt</tabTrigger>
+	<tabTrigger>mg</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>map-get() returns the value in a map associated with a given key</description>
 </snippet>

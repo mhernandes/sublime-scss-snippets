@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	lighten(${1:color}, ${2:amount})
 ]]></content>
-	<tabTrigger>ligt</tabTrigger>
+	<tabTrigger>lg</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>lighten() makes a color lighter</description>
 </snippet>

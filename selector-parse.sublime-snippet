@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	selector-parse(${1:selector})
 ]]></content>
-	<tabTrigger>slpar</tabTrigger>
+	<tabTrigger>sp</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>selector-parse() parses a selector into the format returned by &</description>
 </snippet>

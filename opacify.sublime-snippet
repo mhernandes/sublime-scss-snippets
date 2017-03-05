@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	opacify(${1:color}, ${2:amount})
 ]]></content>
-	<tabTrigger>opc</tabTrigger>
+	<tabTrigger>op</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>opacify() makes a color more opaque</description>
 </snippet>

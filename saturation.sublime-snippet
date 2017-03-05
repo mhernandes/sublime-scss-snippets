@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	saturation(${1:color})
 ]]></content>
-	<tabTrigger>sati</tabTrigger>
+	<tabTrigger>st</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>saturation() gets the saturation component of a color</description>
 </snippet>

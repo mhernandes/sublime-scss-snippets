@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	ie-hex-str(${1:color})
 ]]></content>
-	<tabTrigger>ihe</tabTrigger>
+	<tabTrigger>ih</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>ie-hex-str() converts a color into the format understood by IE filters</description>
 </snippet>
