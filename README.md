@@ -6,7 +6,7 @@ Complete SASS/SCSS snippets for Sublime Text 3
 - [Short-list of supported functions/etc](supported.md)
 - Doc
 	- [Commom(mixin, function)](#commom)
-	- [Miscellaneous](#misc)
+	- [Miscellaneous](#miscellaneous)
 	- [Introspection](#introspection)
 	- [Selector](#selector)
 	- [Number](#number)
