@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	quote(${1:string})
 ]]></content>
-	<tabTrigger>qu</tabTrigger>
+	<tabTrigger>qt</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>quote() adds quotes to a string</description>
 </snippet>

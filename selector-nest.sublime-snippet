@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	selector-nest(${1:selectors})
 ]]></content>
-	<tabTrigger>sln</tabTrigger>
+	<tabTrigger>sn</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>selector-nest() nests selector beneath one another like they would be nested in the stylesheet</description>
 </snippet>

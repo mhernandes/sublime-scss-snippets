@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	join(${1:list}, ${2:list2}, ${3:separator})
 ]]></content>
-	<tabTrigger>jn</tabTrigger>
+	<tabTrigger>jo</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>join() together two lists into one</description>
 </snippet>

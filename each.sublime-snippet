@@ -6,7 +6,7 @@
 		}
 	}
 ]]></content>
-	<tabTrigger>each</tabTrigger>
+	<tabTrigger>ea</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>@each</description>
 </snippet>

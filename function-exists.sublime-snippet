@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	function-exists(${1:function})
 ]]></content>
-	<tabTrigger>fnex</tabTrigger>
+	<tabTrigger>fne</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>function-exists() returns whether a function with the given name exists</description>
 </snippet>

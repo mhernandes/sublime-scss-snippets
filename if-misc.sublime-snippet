@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	@if(${1:condition}, $if-true, $if-false)
+]]></content>
+	<tabTrigger>i</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>if() returns one of two values, depending on whether or not $condition is true. Just like in @if, all values other than false and null are considered to be true</description>
+</snippet>

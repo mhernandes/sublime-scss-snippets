@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-	@debug ${1:debug}
+	@debug ${1:debug};
 ]]></content>
-	<tabTrigger>deb</tabTrigger>
+	<tabTrigger>de</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>@debug</description>
 </snippet>

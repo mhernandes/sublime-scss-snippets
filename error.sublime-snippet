@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-	@error 'fatal error'
+	@error 'fatal error';
 ]]></content>
-	<tabTrigger>err</tabTrigger>
+	<tabTrigger>er</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>@error</description>
 </snippet>

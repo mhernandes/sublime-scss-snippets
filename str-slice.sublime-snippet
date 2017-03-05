@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	str-slice(${1:string}, ${2:start}, ${3:end})
 ]]></content>
-	<tabTrigger>stsl</tabTrigger>
+	<tabTrigger>sts</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>str-slice() extracts a substring from $string</description>
 </snippet>

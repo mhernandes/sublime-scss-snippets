@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	map-remove(${1:map}, ${1:keys})
 ]]></content>
-	<tabTrigger>mprm</tabTrigger>
+	<tabTrigger>mr</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>map-remove() returns a new map with keys removed</description>
 </snippet>

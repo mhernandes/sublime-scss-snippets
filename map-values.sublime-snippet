@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	map-values(${1:map})
 ]]></content>
-	<tabTrigger>mpv</tabTrigger>
+	<tabTrigger>mv</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>map-values() returns a list of all values in a map</description>
 </snippet>

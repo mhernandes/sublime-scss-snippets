@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	${1:var}: ${2:val} !default;
+]]></content>
+	<tabTrigger>vd</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>$variable: $val !default</description>
+</snippet>

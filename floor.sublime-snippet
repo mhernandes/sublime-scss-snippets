@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	floor(${1:number})
 ]]></content>
-	<tabTrigger>flo</tabTrigger>
+	<tabTrigger>fl</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>floor() rounds a number down to the previous whole number</description>
 </snippet>

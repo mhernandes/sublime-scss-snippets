@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	max(${1:number})
 ]]></content>
-	<tabTrigger>mi</tabTrigger>
+	<tabTrigger>ma</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>max() finds the maximum of several numbers</description>
 </snippet>

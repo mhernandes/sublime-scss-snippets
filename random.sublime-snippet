@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	random(${1:limit})
 ]]></content>
-	<tabTrigger>ran</tabTrigger>
+	<tabTrigger>rd</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>random() returns a random number</description>
 </snippet>

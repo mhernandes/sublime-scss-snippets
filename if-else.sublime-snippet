@@ -8,7 +8,7 @@
 
 	}
 ]]></content>
-	<tabTrigger>@i</tabTrigger>
+	<tabTrigger>ife</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>@if</description>
 </snippet>

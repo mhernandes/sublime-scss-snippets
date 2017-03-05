@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	adjust-hue(${1:color}, ${2:degrees})
 ]]></content>
-	<tabTrigger>adh</tabTrigger>
+	<tabTrigger>ah</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>adjust-hue() changes the hue of a color</description>
 </snippet>

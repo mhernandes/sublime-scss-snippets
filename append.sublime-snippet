@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	append(${1:list}, ${2:val}, ${3:separator})
 ]]></content>
-	<tabTrigger>apn</tabTrigger>
+	<tabTrigger>ap</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>append() appends a single value onto the end of a list</description>
 </snippet>

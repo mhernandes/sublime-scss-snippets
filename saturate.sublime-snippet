@@ -2,7 +2,7 @@
 	<content><![CDATA[
 	saturate(${1:color}, ${2:amount})
 ]]></content>
-	<tabTrigger>sat</tabTrigger>
+	<tabTrigger>ste</tabTrigger>
 	<scope>source.sass, source.scss</scope>
 	<description>saturate() makes a color more satured</description>
 </snippet>
