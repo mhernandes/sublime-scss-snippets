@@ -2,6 +2,64 @@
 
 Complete SASS/SCSS snippets for Sublime Text 3
 
+## Table of Content
+- [Commom(i. e. mixin, function)](#commom)
+- [Miscellaneous](#misc)
+- [Introspection](#introspection)
+- [Selector](#selector)
+- [Number](#number)
+- [Maps](#maps)
+- [List](#list)
+- [RGB](#rgb)
+- [HSL](#hsl)
+- [Others Colors](#others)
+- [Opacity](#opacity)
+- [Strings](#strings)
+
+
+## Commom
+
+### [mix] mixin
+
+```scss
+// Name ${1:name}
+// Desc
+// Return
+@mixin ${1:name}() {
+	@content;
+}
+```
+
+### [fun] function
+
+```scss
+// Name ${1:name}
+// Desc
+// Return
+@function ${1:name}() {
+	@warn 'warn me';
+	@return false;
+}
+```
+
+### [inc] include
+
+```scss
+@include ${1:mixin}();
+```
+
+### [ext] extend
+
+```scss
+@extend .${1:elem};
+```
+
+### [imp] import
+
+```scss
+@import '${1:this}';
+```
+
 ### Snippets list
 
 - [X] Mixin
