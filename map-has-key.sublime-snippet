@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	map-has-key(${1:map}, ${2:key})
+map-has-key(${1:map}, ${2:key})
 ]]></content>
 	<tabTrigger>mh</tabTrigger>
 	<scope>source.sass, source.scss</scope>

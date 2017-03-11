@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	alpha(${1:color})
+alpha(${1:color})
 ]]></content>
 	<tabTrigger>al</tabTrigger>
 	<scope>source.sass, source.scss</scope>

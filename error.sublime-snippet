@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	@error 'fatal error';
+@error 'fatal error';
 ]]></content>
 	<tabTrigger>er</tabTrigger>
 	<scope>source.sass, source.scss</scope>

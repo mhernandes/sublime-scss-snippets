@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	selector-unify(${1:selector1}, ${2:selector2})
+selector-unify(${1:selector1}, ${2:selector2})
 ]]></content>
 	<tabTrigger>sluni</tabTrigger>
 	<scope>source.sass, source.scss</scope>

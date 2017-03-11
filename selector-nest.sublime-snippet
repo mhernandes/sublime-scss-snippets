@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	selector-nest(${1:selectors})
+selector-nest(${1:selectors})
 ]]></content>
 	<tabTrigger>sn</tabTrigger>
 	<scope>source.sass, source.scss</scope>

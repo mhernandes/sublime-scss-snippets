@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	percentage(${1:number})
+percentage(${1:number})
 ]]></content>
 	<tabTrigger>pr</tabTrigger>
 	<scope>source.sass, source.scss</scope>

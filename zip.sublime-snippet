@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	zip(${1:lists})
+zip(${1:lists})
 ]]></content>
 	<tabTrigger>zip</tabTrigger>
 	<scope>source.sass, source.scss</scope>

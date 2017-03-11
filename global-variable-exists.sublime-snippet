@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	global-variable-exists(${1:variable})
+global-variable-exists(${1:variable})
 ]]></content>
 	<tabTrigger>ge</tabTrigger>
 	<scope>source.sass, source.scss</scope>

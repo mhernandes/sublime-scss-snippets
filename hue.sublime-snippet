@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	hue(${1:color})
+hue(${1:color})
 ]]></content>
 	<tabTrigger>hue</tabTrigger>
 	<scope>source.sass, source.scss</scope>

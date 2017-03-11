@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	lightness(${1:color})
+lightness(${1:color})
 ]]></content>
 	<tabTrigger>lgt</tabTrigger>
 	<scope>source.sass, source.scss</scope>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	str-index(${1:string}, ${2:substring})
+str-index(${1:string}, ${2:substring})
 ]]></content>
 	<tabTrigger>stx</tabTrigger>
 	<scope>source.sass, source.scss</scope>

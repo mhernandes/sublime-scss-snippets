@@ -1,11 +1,11 @@
 <snippet>
 	<content><![CDATA[
-		// Name ${1:name}
-		// Desc
-		// Return
-		@mixin ${1:name}() {
-			@content;
-		}
+// Name ${1:name}
+// Desc
+// Return
+@mixin ${1:name}() {
+	@content;
+}
 ]]></content>
 	<tabTrigger>mix</tabTrigger>
 	<scope>source.sass, source.scss</scope>

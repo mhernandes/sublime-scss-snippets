@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	is-superselector(${1:super}, ${2:sub})
+is-superselector(${1:super}, ${2:sub})
 ]]></content>
 	<tabTrigger>is</tabTrigger>
 	<scope>source.sass, source.scss</scope>

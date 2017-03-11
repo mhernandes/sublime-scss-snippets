@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	round(${1:number})
+round(${1:number})
 ]]></content>
 	<tabTrigger>ro</tabTrigger>
 	<scope>source.sass, source.scss</scope>

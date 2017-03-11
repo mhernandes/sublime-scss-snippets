@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	ceil(${1:number})
+ceil(${1:number})
 ]]></content>
 	<tabTrigger>ce</tabTrigger>
 	<scope>source.sass, source.scss</scope>

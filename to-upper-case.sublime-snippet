@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	to-upper-case(${1:string})
+to-upper-case(${1:string})
 ]]></content>
 	<tabTrigger>tu</tabTrigger>
 	<scope>source.sass, source.scss</scope>

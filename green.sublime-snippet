@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	green(${1:color})
+green(${1:color})
 ]]></content>
 	<tabTrigger>gr</tabTrigger>
 	<scope>source.sass, source.scss</scope>

@@ -1,12 +1,12 @@
 <snippet>
 	<content><![CDATA[
-	@if something == true {
+@if something == true {
 
-	} @else if 0 < 1 {
+} @else if 0 < 1 {
 
-	} @else {
+} @else {
 
-	}
+}
 ]]></content>
 	<tabTrigger>ife</tabTrigger>
 	<scope>source.sass, source.scss</scope>

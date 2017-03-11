@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
-	@each ${1:key}, ${2:var} in $map[item1, item2, item3...] {
-		.#{$key} {
+@each ${1:key}, ${2:var} in $map[item1, item2, item3...] {
+	.#{$key} {
 
-		}
 	}
+}
 ]]></content>
 	<tabTrigger>ea</tabTrigger>
 	<scope>source.sass, source.scss</scope>

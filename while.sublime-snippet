@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
-	@while ${1:i} > 0 {
-		.item-#{$i} {
+@while ${1:i} > 0 {
+	.item-#{$i} {
 
-		}
 	}
+}
 ]]></content>
 	<tabTrigger>wh</tabTrigger>
 	<scope>source.sass, source.scss</scope>

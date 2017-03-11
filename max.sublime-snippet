@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	max(${1:number})
+max(${1:number})
 ]]></content>
 	<tabTrigger>ma</tabTrigger>
 	<scope>source.sass, source.scss</scope>
