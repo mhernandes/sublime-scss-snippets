@@ -157,6 +157,12 @@ ${1:map}: list1 list2 list3;
 ${1:var}: ${2:val} !default;
 ```
 
+### [d] assign !default
+
+```scss
+!default;
+```
+
 ### [at] at-root
 
 ```scss
