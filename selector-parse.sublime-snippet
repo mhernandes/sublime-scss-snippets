@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>sp</tabTrigger>
 	<scope>source.sass, source.scss</scope>
-	<description>selector-parse() parses a selector into the format returned by &</description>
+	<description>selector-parse() parses a selector into the format returned by &amp;</description>
 </snippet>
