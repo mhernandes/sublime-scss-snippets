@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	join(${1:list}, ${2:list2}, ${3:separator})
+join(${1:list}, ${2:list2}, ${3:separator})
 ]]></content>
 	<tabTrigger>jo</tabTrigger>
 	<scope>source.sass, source.scss</scope>

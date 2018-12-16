@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	to-lower-case(${1:string})
+to-lower-case(${1:string})
 ]]></content>
 	<tabTrigger>tl</tabTrigger>
 	<scope>source.sass, source.scss</scope>

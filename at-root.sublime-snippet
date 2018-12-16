@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-	@at-root {
-		 ${1:class} {  }
-		 ${2:class2} {  }
-	}
+@at-root {
+  ${1:class} {  }
+  ${2:class2} {  }
+}
 ]]></content>
 	<tabTrigger>at</tabTrigger>
 	<scope>source.sass, source.scss</scope>

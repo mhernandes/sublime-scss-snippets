@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	selector-parse(${1:selector})
+selector-parse(${1:selector})
 ]]></content>
 	<tabTrigger>sp</tabTrigger>
 	<scope>source.sass, source.scss</scope>

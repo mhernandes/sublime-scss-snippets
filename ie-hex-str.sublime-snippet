@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	ie-hex-str(${1:color})
+ie-hex-str(${1:color})
 ]]></content>
 	<tabTrigger>ih</tabTrigger>
 	<scope>source.sass, source.scss</scope>

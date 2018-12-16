@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	invert(${1:color})
+invert(${1:color})
 ]]></content>
 	<tabTrigger>iv</tabTrigger>
 	<scope>source.sass, source.scss</scope>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	function-exists(${1:function})
+function-exists(${1:function})
 ]]></content>
 	<tabTrigger>fne</tabTrigger>
 	<scope>source.sass, source.scss</scope>

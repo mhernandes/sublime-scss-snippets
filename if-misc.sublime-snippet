@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	@if(${1:condition}, $if-true, $if-false)
+@if(${1:condition}, $if-true, $if-false)
 ]]></content>
 	<tabTrigger>i</tabTrigger>
 	<scope>source.sass, source.scss</scope>

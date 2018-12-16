@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	map-remove(${1:map}, ${1:keys})
+map-remove(${1:map}, ${1:keys})
 ]]></content>
 	<tabTrigger>mr</tabTrigger>
 	<scope>source.sass, source.scss</scope>

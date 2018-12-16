@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	mixin-exists(${1:mixin})
+mixin-exists(${1:mixin})
 ]]></content>
 	<tabTrigger>me</tabTrigger>
 	<scope>source.sass, source.scss</scope>

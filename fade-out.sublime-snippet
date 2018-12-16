@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	fade-out(${1:color}, ${2:amount})
+fade-out(${1:color}, ${2:amount})
 ]]></content>
 	<tabTrigger>fdo</tabTrigger>
 	<scope>source.sass, source.scss</scope>

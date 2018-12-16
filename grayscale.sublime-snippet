@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	grayscale(${1:color})
+grayscale(${1:color})
 ]]></content>
 	<tabTrigger>grs</tabTrigger>
 	<scope>source.sass, source.scss</scope>

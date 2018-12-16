@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	index(${1:list}, ${2:val})
+index(${1:list}, ${2:val})
 ]]></content>
 	<tabTrigger>in</tabTrigger>
 	<scope>source.sass, source.scss</scope>

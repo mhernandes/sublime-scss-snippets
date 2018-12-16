@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	random(${1:limit})
+random(${1:limit})
 ]]></content>
 	<tabTrigger>rd</tabTrigger>
 	<scope>source.sass, source.scss</scope>

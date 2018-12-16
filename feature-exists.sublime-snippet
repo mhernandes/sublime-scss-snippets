@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	feature-exists(${1:feature})
+feature-exists(${1:feature})
 ]]></content>
 	<tabTrigger>fe</tabTrigger>
 	<scope>source.sass, source.scss</scope>

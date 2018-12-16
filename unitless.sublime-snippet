@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	unitless(${1:number})
+unitless(${1:number})
 ]]></content>
 	<tabTrigger>unl</tabTrigger>
 	<scope>source.sass, source.scss</scope>

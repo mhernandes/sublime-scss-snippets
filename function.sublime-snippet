@@ -1,12 +1,12 @@
 <snippet>
 	<content><![CDATA[
-	// Name ${1:name}
-	// Desc
-	// Return
-	@function ${1:name}() {
-		@warn 'warn me';
-		@return false;
-	}
+// Name ${1:name}
+// Desc
+// Return
+@function ${1:name}() {
+  @warn 'warn me';
+  @return false;
+}
 ]]></content>
 	<tabTrigger>fun</tabTrigger>
 	<scope>source.sass, source.scss</scope>

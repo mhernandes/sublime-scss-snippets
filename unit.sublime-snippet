@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	unit(${1:number})
+unit(${1:number})
 ]]></content>
 	<tabTrigger>un</tabTrigger>
 	<scope>source.sass, source.scss</scope>

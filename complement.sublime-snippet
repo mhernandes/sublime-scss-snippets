@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	complement(${1:color})
+complement(${1:color})
 ]]></content>
 	<tabTrigger>cpm</tabTrigger>
 	<scope>source.sass, source.scss</scope>
